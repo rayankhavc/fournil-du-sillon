@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "fournil-dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--", "--root", "C:/Users/rir0u/OneDrive/Bureau/fournil-du-sillon"],
+      "port": 4321
+    }
+  ]
+}
